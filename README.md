@@ -48,3 +48,6 @@ TEAM MEMBERS
 
 ## SDLC Output
 ![SDLC Output](output_image.jpg)
+
+## Demo Video
+Watch our project demo here: [Click to Watch](PASTE_YOUR_LINK_HERE)
