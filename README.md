@@ -3,16 +3,16 @@ SmartSDLC-AI Enhanced software development Life Cycle
 
 TEAM LEADER
 
-Karthikeyan S
+1.Karthikeyan S
 
 
 TEAM MEMBERS
 
-Pranesh SP
+2.Pranesh SP
 
-Siddharth MC
+3.Siddharth MC
 
-Sanjay S
+4.Sanjay S
 
 Project Overview
 
