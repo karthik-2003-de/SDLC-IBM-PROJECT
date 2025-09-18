@@ -14,7 +14,7 @@ TEAM MEMBERS
 
 4.Sanjay S
 
-Project Overview
+📌 Project Overview
 
 *SmartSDLC is an AI-driven approach to enhance the traditional Software Development Life Cycle by automating requirement analysis, health monitoring, and improving efficiency.
 
